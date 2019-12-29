@@ -18,11 +18,13 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [SKSE64](https://skse.silverlock.org/): required for script-based mods.
 - [ModOrganizer2](https://github.com/ModOrganizer2/modorganizer): Python frontend tool to manage, organize and set load order for installed mods, with compatibility with the [NexusMods](https://www.nexusmods.com/skyrimspecialedition) API. Might change with official NexusMods [Vortex](https://www.nexusmods.com/site/mods/1/?tab=files).
 - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266): must-have unofficial patch for multiple bugs.
+- [Achievements Mods Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/245): bypass the achievement block when using mods.
 
 ## Menu, UI
 
 - [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604): improved inventory menu.
 - [Clean Menu](https://www.nexusmods.com/skyrimspecialedition/mods/3223/): remove Bethesda logo from intro; remove Mods, Addons, Credits buttons from main menu.
+- [A Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/5804): graphically improved world map.
 
 ## Combat system
 
