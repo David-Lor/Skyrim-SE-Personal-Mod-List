@@ -33,7 +33,6 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
-- ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
 
 ## Random (not used for "production" savegames)
 
