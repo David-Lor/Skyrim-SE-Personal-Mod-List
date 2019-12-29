@@ -26,11 +26,11 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
 ## Combat system
 
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves.
+- [Smilodon - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; timed blocking; increased & balanced damage multipliers.
 - [Deadly Combat](https://www.nexusmods.com/skyrimspecialedition/mods/8850): more difficult combat; fast-paced.
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
-- [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
+- [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Smilodon); avoid brawl fight turning into a real battle.
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
 
 ## Random (not used for "production" savegames)
