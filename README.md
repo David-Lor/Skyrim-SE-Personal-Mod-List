@@ -11,7 +11,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Requirements, tools](#requirements-tools)
 - [Menu, UI](#menu-ui)
 - [Combat system](#combat-system)
-- [Clothing](#clothing)
+- [Clothing, objects](#clothing-objects)
 - [Random](#random-not-used-for-production-savegames)
 
 ## Requirements, tools
@@ -34,10 +34,11 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
 
-## Clothing
+## Clothing, objects
 
 - [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369): new 100 styles of cloaks.
-- [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417): new craftable pouches, bags and bandoliers
+- [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417): new craftable pouches, bags and bandoliers.
+- [Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/7560): new craftable wearable, functional lanterns.
 
 ## Random (not used for "production" savegames)
 
