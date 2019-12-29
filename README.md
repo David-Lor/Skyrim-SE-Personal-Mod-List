@@ -39,7 +39,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 Mods featuring real-world realism/inmersion details, not related with combat.
 
 - [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645): food, water & sleep needs.
-- [Joy of Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/9358): improved first-person view (full body is visible).
+- ~~[Joy of Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/9358): improved first-person view (full body is visible)~~ (have some bugs, specially with AGO).
 - [Populated Cities Towns Villages](https://www.nexusmods.com/skyrimspecialedition/mods/2005): add random NPCs to cities, towns & villages.
 
 ## Random (not used for "production" savegames)
