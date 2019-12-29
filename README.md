@@ -37,6 +37,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 ## Clothing
 
 - [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369): new 100 styles of cloaks.
+- [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417): new craftable pouches, bags and bandoliers
 
 ## Random (not used for "production" savegames)
 
