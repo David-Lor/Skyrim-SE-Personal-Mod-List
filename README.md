@@ -11,6 +11,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Requirements, tools](#requirements-tools)
 - [Menu, UI](#menu-ui)
 - [Combat system](#combat-system)
+- [Realism/Inmersion](#realism-inmersion)
 - [Random](#random-not-used-for-production-savegames)
 
 ## Requirements, tools
@@ -35,6 +36,14 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
+
+## Realism/Inmersion
+
+Mods featuring real-world realism/inmersion details, not related with combat.
+
+- [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645): food, water & sleep needs.
+- ~~[Joy of Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/9358): improved first-person view (full body is visible)~~ (have some bugs, specially with AGO).
+- [Populated Cities Towns Villages](https://www.nexusmods.com/skyrimspecialedition/mods/2005): add random NPCs to cities, towns & villages.
 
 ## Random (not used for "production" savegames)
 
