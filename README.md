@@ -40,6 +40,10 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417): new craftable pouches, bags and bandoliers.
 - [Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/7560): new craftable wearable, functional lanterns.
 
+### Appearance
+
+- [Belt-Fastened Quivers](https://www.nexusmods.com/skyrimspecialedition/mods/1182): carry the arrow quiver on the belt, rather than on the back.
+
 ## Random (not used for "production" savegames)
 
 Mods that I would not use for a real main-story savegame, but for trying modding stuff and randomly playing around.
