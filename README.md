@@ -1,6 +1,8 @@
 # Mod List for Skyrim Special Edition
 
-![Skyrim Logo](SkyrimLogo.svg)
+<p align="center">
+  <img src="SkyrimLogo.svg" alt="Skyrim Logo" width="30%" height="30%"/>
+</p>
 
 Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
