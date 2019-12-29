@@ -29,7 +29,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves.
 - [Deadly Combat](https://www.nexusmods.com/skyrimspecialedition/mods/8850): more difficult combat; fast-paced.
-- [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows.
+- [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows; arrow bleeding damage.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
@@ -43,6 +43,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 ### Appearance
 
 - [Belt-Fastened Quivers](https://www.nexusmods.com/skyrimspecialedition/mods/1182): carry the arrow quiver on the belt, rather than on the back.
+  - [AGO Belt-Fastened Quivers Support](https://www.nexusmods.com/skyrimspecialedition/mods/24296): compatibility patch to use Belt-Fastened Quivers with Archery Gameplay Overhaul.
 - [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943): city guard helmets expose the guard face. (alternatives: [Semi-Open Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/3077), [Open Faced Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/4994)).
 
 ## Random (not used for "production" savegames)
