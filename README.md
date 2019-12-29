@@ -16,6 +16,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 ## Requirements, tools
 
 - [SKSE64](https://skse.silverlock.org/): required for script-based mods.
+- [PapyrusUtil SE](https://www.nexusmods.com/skyrimspecialedition/mods/13048): required by some mods (Locational Damage Stability Patch)
 - [ModOrganizer2](https://github.com/ModOrganizer2/modorganizer): Python frontend tool to manage, organize and set load order for installed mods, with compatibility with the [NexusMods](https://www.nexusmods.com/skyrimspecialedition) API. Might change with official NexusMods [Vortex](https://www.nexusmods.com/site/mods/1/?tab=files).
 - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266): must-have unofficial patch for multiple bugs.
 
@@ -31,6 +32,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
+- [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
 
 ## Random (not used for "production" savegames)
