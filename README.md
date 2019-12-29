@@ -11,6 +11,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Requirements, tools](#requirements-tools)
 - [Menu, UI](#menu-ui)
 - [Combat system](#combat-system)
+- [Realism/Inmersion](#realism-inmersion)
 - [Random](#random-not-used-for-production-savegames)
 
 ## Requirements, tools
@@ -32,6 +33,12 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
+
+## Realism/Inmersion
+
+Mods featuring real-world realism/inmersion details, not related with combat.
+
+- [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645): food, water & sleep needs.
 
 ## Random (not used for "production" savegames)
 
