@@ -43,6 +43,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 ### Appearance
 
 - [Belt-Fastened Quivers](https://www.nexusmods.com/skyrimspecialedition/mods/1182): carry the arrow quiver on the belt, rather than on the back.
+- [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943): city guard helmets expose the guard face. (alternatives: [Semi-Open Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/3077), [Open Faced Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/4994)).
 
 ## Random (not used for "production" savegames)
 
