@@ -1,5 +1,7 @@
 # Mod List for Skyrim Special Edition
 
+![Skyrim Logo](SkyrimLogo.svg)
+
 Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
 ## Index
@@ -7,7 +9,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Requirements, tools](#requirements-tools)
 - [Menu, UI](#menu-ui)
 - [Combat system](#combat-system)
-- [Random](#random)
+- [Random](#random-not-used-for-production-savegames)
 
 ## Requirements, tools
 
@@ -29,8 +31,8 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - ~~[Basic Location Damage](https://www.nexusmods.com/skyrimspecialedition/mods/14845/): locational damage.~~ Have a certain delay between hits and damage applied. Headshots still not deadly.
 
-## Random (not used for "production" stories)
+## Random (not used for "production" savegames)
 
-Mods that I would not use for a real savegame, but for trying stuff and randomly playing.
+Mods that I would not use for a real main-story savegame, but for trying modding stuff and randomly playing around.
 
-- [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272): to start on a certain location, skipping the Helgen intro.
+- [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272): to start at a certain location, skipping the Helgen intro.
