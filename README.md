@@ -37,6 +37,13 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
 
+### Targets
+
+- [ ] Player & NPC health shall have realistic values. If possible, one-hit = not kill but wounded, unless wearing armor.
+- [ ] Enemies shall block more attacks (since the objective is to make each hit be important). (_Wildcat, Deadly Combat_)
+- [ ] Armor to have more effect than just increasing health/reducing damage ([_True Armor?_](https://www.nexusmods.com/skyrimspecialedition/mods/15921))
+- [x] Arrows shall be more deadly. Headshots shall be instant-kills (unless wearing -heavy- helmets, but arrows shall bounce and not stick to the head). (_Locational Damage_)
+
 ## Realism/Inmersion
 
 Mods featuring real-world realism/inmersion details, not related with combat.
