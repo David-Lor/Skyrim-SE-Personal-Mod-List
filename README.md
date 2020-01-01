@@ -11,6 +11,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Requirements, tools](#requirements-tools)
 - [Menu, UI](#menu-ui)
 - [Combat system](#combat-system)
+- [Clothing, objects](#clothing-objects)
 - [Realism/Inmersion](#realism-inmersion)
 - [Random](#random-not-used-for-production-savegames)
 
@@ -32,7 +33,7 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves. [Realistic Damage Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files) to equally increase damage dealt and received on higher in-game dificulties.
 - [Deadly Combat](https://www.nexusmods.com/skyrimspecialedition/mods/8850): more difficult combat; fast-paced.
-- [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows.
+- [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows; arrow bleeding damage.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
@@ -51,6 +52,18 @@ Mods featuring real-world realism/inmersion details, not related with combat.
 - [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645): food, water & sleep needs.
 - ~~[Joy of Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/9358): improved first-person view (full body is visible)~~ (have some bugs, specially with AGO).
 - [Populated Cities Towns Villages](https://www.nexusmods.com/skyrimspecialedition/mods/2005): add random NPCs to cities, towns & villages.
+
+## Clothing, objects
+
+- [Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6369): new 100 styles of cloaks.
+- [Bandolier](https://www.nexusmods.com/skyrimspecialedition/mods/2417): new craftable pouches, bags and bandoliers.
+- ~~[Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/7560): new craftable wearable, functional lanterns.~~ Skip for now.
+
+### Appearance
+
+- [Belt-Fastened Quivers](https://www.nexusmods.com/skyrimspecialedition/mods/1182): carry the arrow quiver on the belt, rather than on the back.
+  - [AGO Belt-Fastened Quivers Support](https://www.nexusmods.com/skyrimspecialedition/mods/24296): compatibility patch to use Belt-Fastened Quivers with Archery Gameplay Overhaul.
+- [Open Face Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/13943): city guard helmets expose the guard face. (alternatives: [Semi-Open Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/3077), [Open Faced Guard Helmets](https://www.nexusmods.com/skyrimspecialedition/mods/4994)).
 
 ## Random (not used for "production" savegames)
 
