@@ -31,12 +31,14 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 
 ## Combat system
 
-- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves. [Realistic Damage Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files) to equally increase damage dealt and received on higher in-game dificulties.
+- [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves.
+  - [Realistic Damage Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files) to equally increase damage dealt and received on higher in-game dificulties. Game difficulty set to Adept.
 - [Deadly Combat](https://www.nexusmods.com/skyrimspecialedition/mods/8850): more difficult combat; fast-paced.
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows; arrow bleeding damage.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
+- [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668): force killmoves on low-health NPC.
 
 ### Targets
 
