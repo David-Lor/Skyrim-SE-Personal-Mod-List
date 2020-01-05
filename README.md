@@ -34,9 +34,11 @@ Personal mod list for Skyrim SE, focusing on realism and inmersion.
 - [Wildcat - Combat of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1368): improved combat system; more difficulty; killmoves.
   - [Realistic Damage Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/1368?tab=files) to equally increase damage dealt and received on higher in-game dificulties. Game difficulty set to Adept.
 - [Deadly Combat](https://www.nexusmods.com/skyrimspecialedition/mods/8850): more difficult combat; fast-paced.
+- [Mortal Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/4881): improved NPC combat turn rate.
 - [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296): improve arrow animations; enchanted arrows; arrow bleeding damage.
 - [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/15309): dodge movements during combat.
 - [Modern Brawl Bug Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1473): fixes on brawl fighting (required by Wildcat).
+- [Realistic Melee Range](https://www.nexusmods.com/skyrimspecialedition/mods/3378): reduce melee attack range to a realistic level (- ~20%).
 - [Locational Damage](https://www.nexusmods.com/skyrim/mods/12615) + [Locational Damage Stability Patch](https://www.nexusmods.com/skyrimspecialedition/mods/22443): port of the original Locational Damage to Skyrim SE. Include locational damage for the game. Used mainly for arrow headshots.
 - [VioLens - A Killmove Mod](https://www.nexusmods.com/skyrimspecialedition/mods/668): force killmoves on low-health NPC.
 - ~~[Smiley's Combat Realism Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27879): NPC health standarization; inventory weight cap limit; increased block damage reduction.~~ Conflicting with health levels from Wildcat Realistic Damage Plugin. Block damage reduction not appreciable.
@@ -57,6 +59,8 @@ Mods featuring real-world realism/inmersion details, not related with combat.
 - [iNeed](https://www.nexusmods.com/skyrimspecialedition/mods/645): food, water & sleep needs.
 - ~~[Joy of Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/9358): improved first-person view (full body is visible)~~ (have some bugs, specially with AGO).
 - [Populated Cities Towns Villages](https://www.nexusmods.com/skyrimspecialedition/mods/2005): add random NPCs to cities, towns & villages.
+- [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272): civilian NPC run to shelter during dragon attacks, instead of fighting them.
+- [No Spinning Death Animation](https://www.nexusmods.com/skyrimspecialedition/mods/1432): remove the ridiculous spinning death animation for player and NPC.
 
 ## Clothing, objects
 
